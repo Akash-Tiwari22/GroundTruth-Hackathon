@@ -157,3 +157,8 @@ Try messages:
 “Do you have cappuccino?” → Inventory card
 
 “Is the store open?” → Store info card
+<img width="1390" height="737" alt="Screenshot 2025-12-03 at 11 50 29 AM" src="https://github.com/user-attachments/assets/d40873e2-1551-4dee-8ab5-d775352e67e3" />
+
+
+
+
