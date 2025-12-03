@@ -159,6 +159,14 @@ Try messages:
 “Is the store open?” → Store info card
 <img width="1390" height="737" alt="Screenshot 2025-12-03 at 11 50 29 AM" src="https://github.com/user-attachments/assets/d40873e2-1551-4dee-8ab5-d775352e67e3" />
 
+<img width="1433" height="729" alt="Screenshot 2025-12-03 at 11 51 51 AM" src="https://github.com/user-attachments/assets/0a3bbb42-6321-4570-a75b-308d38de8bb8" />
+
+<img width="1455" height="744" alt="Screenshot 2025-12-03 at 11 52 26 AM" src="https://github.com/user-attachments/assets/06dc6c45-251b-4296-b2b0-450ffff5652c" />
+
+
+
+
+
 
 
 
